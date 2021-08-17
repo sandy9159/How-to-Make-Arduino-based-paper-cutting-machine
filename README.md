@@ -58,11 +58,42 @@ I ued this type of 10mm U shape aluminium this is used as guuid for paper
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/129763213-555422e6-bebd-4974-9c64-b181a3281e27.png)
+
+This are the Nema17 stepper motor I have used 2 of this type
+
+One to feed paper to the blade, and one is to cut the paper.
+
+Basically stepper motors are brushless DC motors, normally a permanent magnet rotor placed in between of stator winding.
+
+Stator winding then energize step by step in a sequential way so it get magnetize and force rotor to align with the magnetic field of stator coil.
+
+in this way rotor begin rotate in small steps, due to this behavior the motor gets its name “stepper motor”
+
+As we can see now by controlling the stator winding generations sequence we can precisely control the position of rotor without any position feedback system.
+
+this quality of stepper motor makes is best suitable to be used were high precision motion is required like CNC machines.
 
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/129763706-4aff0364-6079-411e-b36c-512594c6d832.png)
 
+
+This is the rubber roller you can find this type off roller in any OLD printers.
+
+Rubber mounted on the shaft is provide great grip with paper, this will make very easy to feed paper
+
+at the on end of the roller's shaft I have attached a 3D printed gear, this gear get engage with the other
+
+gear which is mounted on the shaft of nema 17 stepper motor.
+
+This stepper motor runs the roller against the paper and paper feed to the cutting blade
+
+
+![image](https://user-images.githubusercontent.com/19898602/129764325-111a154c-5734-42b0-88c0-475a255dc875.png)
+
+This is the sliding mechanism for the blade
 
 
 
