@@ -170,6 +170,7 @@ as soon as we press the start button machine start to cut the strips of paper as
 
 
 
+![MVI_0001_3](https://user-images.githubusercontent.com/19898602/129766258-09f22937-c223-48fe-a94d-8d1a6e95b1fc.gif)
 
 
 
