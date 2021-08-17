@@ -156,6 +156,14 @@ I have mounted PCB on the 3D printer platform then I connect both Stepper motor 
 connected Nextion HMI with RX & TX pins
 
 
+![image](https://user-images.githubusercontent.com/19898602/129765650-dc6b973f-ef71-4a4d-8a71-5ca9b2a4a601.png)
+
+This is how I competed this machine as we power up machine its ready to use.
+
+User can input data through touch Screen user can define how many strips he wants and how long each strips must be 
+
+as soon as we press the start button machine start to cut the strips of paper as per provided data
+
 
 
 
